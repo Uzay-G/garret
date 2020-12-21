@@ -46,4 +46,4 @@ This file will then be parsed and if a url / folder of bookmarks matches the pat
 
 ## Contributors
 
-- [your-name-here](https://github.com/Uzay-G) - creator and maintainer
+- [Uzay-G](https://github.com/Uzay-G) - creator and maintainer
